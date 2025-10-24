@@ -1,0 +1,17 @@
+# --- Python ---
+__pycache__/
+*.pyc
+
+# --- Virtual Environment ---
+.venv/
+
+# --- Jupyter Notebook Checkpoints ---
+.ipynb_checkpoints/
+
+# --- Chroma DB / Vectorstore ---
+chroma_langchain_db/
+*.sqlite3
+
+# --- OS Files ---
+.DS_Store
+
